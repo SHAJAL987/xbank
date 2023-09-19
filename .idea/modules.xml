@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ACCOUNT-SERVICES/ACCOUNT-SERVICES.iml" filepath="$PROJECT_DIR$/ACCOUNT-SERVICES/ACCOUNT-SERVICES.iml" />
+      <module fileurl="file://$PROJECT_DIR$/APIGATEWAY-SERVICES/APIGATEWAY-SERVICES.iml" filepath="$PROJECT_DIR$/APIGATEWAY-SERVICES/APIGATEWAY-SERVICES.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CUSTOMER-SERVICES/CUSTOMER-SERVICES.iml" filepath="$PROJECT_DIR$/CUSTOMER-SERVICES/CUSTOMER-SERVICES.iml" />
+      <module fileurl="file://$PROJECT_DIR$/REGISTRY-SERVICES/REGISTRY-SERVICES.iml" filepath="$PROJECT_DIR$/REGISTRY-SERVICES/REGISTRY-SERVICES.iml" />
+      <module fileurl="file://$PROJECT_DIR$/USER-SERVICES/USER-SERVICES.iml" filepath="$PROJECT_DIR$/USER-SERVICES/USER-SERVICES.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xbankservice.iml" filepath="$PROJECT_DIR$/xbankservice.iml" />
+    </modules>
+  </component>
+</project>
